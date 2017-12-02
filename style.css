@@ -9,11 +9,11 @@
 #title {
     background: yellow;
     text-align: center;
-    margin:20px;
-    border:0px 0px 0px 10px;
-    padding:1px 1px 10px 1px;
-    display:block-inline;
-    
+    margin: 20px;
+    border: 0px 0px 0px 10px;
+    padding: 1px 1px 10px 1px;
+    display: block-inline;
+
 }
 
 #subtitle {
@@ -21,11 +21,11 @@
     color: white;
     /*add CSS here*/
     text-align: center;
-    margin:20px;
-    border:10px 0px, 0px 0px;
-    padding:1px 1px 1px 1px;
+    margin: 20px;
+    border: 10px 0px, 0px 0px;
+    padding: 1px 1px 1px 1px;
     display: block-inline;
-    
+
 }
 
 .topic {
@@ -33,6 +33,5 @@
     /*add CSS here*/
     display: inline;
     margin: 20px;
-    
-}
 
+}
